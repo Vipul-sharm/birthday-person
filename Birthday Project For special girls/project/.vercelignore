@@ -1,0 +1,14 @@
+git
+.gitignore
+node_modules
+npm-debug.log
+.env.local
+.env
+dist
+build
+.vercel
+.DS_Store
+*log
+.eslintcache
+.turbo
+node_modules
